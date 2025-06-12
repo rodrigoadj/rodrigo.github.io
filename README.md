@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <body background="Feliz Aniversario/pngtree-balloon-frame-with-beautiful-sparkle-png-image_6217808.png">
     <style>
         body {
