@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(255, 180, 215);
+    text-align: center;
+    background-size: cover;
+    justify-content: center;
+}
+
+img {
+    height: 40rem;
+}
